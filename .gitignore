@@ -1,0 +1,10 @@
+build/
+install/
+log/
+*.pyc
+*.swp
+*.log
+*.DS_Store
+.venv/
+.env
+*.so
